@@ -1,14 +1,14 @@
 import './App.css';
+import Alldata from './Components/Alldata';
 // import Loader from './Components/Loader';
-// import Abc from './Components/abc';
-import Covid from './Components/Covid';
+// import Covid from './Components/Covid';
 
 function App() {
   return (
    <>
-  <Covid/>
-  {/* <Abc/> */}
+  {/* <Covid/> */}
   {/* <Loader/> */}
+  <Alldata/>
    </>
   );
 }

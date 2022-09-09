@@ -132,3 +132,31 @@ select{
         /* border: 20px solid blue; */
     }
 }
+
+
+
+#txt{
+    width: 35%;
+    height: 25px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background: none;
+    padding-left: 10px;
+    font-size: 20px;
+
+}
+
+button{
+    width: 18%;
+    height: 31px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background: coral;
+    color: white;
+
+}
